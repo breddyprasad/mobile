@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
  <scm>
    <connection>scm:git:git@github.com:breddyprasad/mobile.git</connection>
-    <developerConnection>scm:gitgit@github.com:breddyprasad/mobile.git</developerConnection>
+    <developerConnection>scm:git:git@github.com:breddyprasad/mobile.git</developerConnection>
     <url>scm:git:git@github.com:breddyprasad/mobile.git</url>
   <tag>HEAD</tag>
   </scm>
@@ -59,7 +59,7 @@
 						<pomFileName>${project.name}/pom.xml</pomFileName>
 					</configuration>
 				</execution>
-			</executions>
+				</executions>
 			</plugin>
 		</plugins>
 	</pluginManagement>
